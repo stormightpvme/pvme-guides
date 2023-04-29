@@ -451,7 +451,7 @@ This section covers auto attacks and spells, basics, thresholds, ultimate abilit
 {
   "embed": {
     "title": "__Tsunami__ <:tsunami:535533809995874304>",
-    "description": "⬥ Cooldown: 100t (60s)\n⬥ It is an AoE\n⬥ Provides n Critical Adrenaline buff:\n\u00a0\u00a0\u00a0\u00a0• For the next 30s, critical hits give 10% adrenaline\n\u00a0\u00a0\u00a0\u00a0• This buff is applied on release of the ability\n⬥ Adrenaline cost can be reduced through auto-casting Incite Fear <:incitefear:856635090783567902>\n\u00a0\u00a0\u00a0\u00a0• Each stack reduces <:tsunami:535533809995874304> cost by 12$, down to 40% at 5 stacks",
+    "description": "⬥ Cooldown: 100t (60s)\n⬥ It is an AoE\n⬥ Provides n Critical Adrenaline buff:\n\u00a0\u00a0\u00a0\u00a0• For the next 30s, critical hits give 10% adrenaline\n\u00a0\u00a0\u00a0\u00a0• This buff is applied on release of the ability\n⬥ Adrenaline cost can be reduced through auto-casting Incite Fear <:incitefear:856635090783567902>\n\u00a0\u00a0\u00a0\u00a0• Each stack reduces <:tsunami:535533809995874304> cost by 12%, down to 40% at 5 stacks",
     "color": 39423
   }
 }
